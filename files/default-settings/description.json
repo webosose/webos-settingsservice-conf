@@ -1,0 +1,356 @@
+[
+    {
+        "category": "",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "locale",
+        "ui": {
+            "active": true,
+            "displayName": "locale",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": false,
+        "values": {
+            "file": "/etc/palm/locale.json"
+        },
+        "vtype": "File"
+    },
+    {
+        "category": "",
+        "dbtype": "G",
+        "dimension": [],
+        "hasCountryVar": true,
+        "key": "localeInfo",
+        "ui": {
+            "active": true,
+            "displayName": "localeInfo",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": false,
+        "values": {
+            "arrayExt": []
+        },
+        "vtype": "ArrayExt"
+    },
+        {
+        "category": "lock",
+        "dbtype": "S",
+        "dimension": [],
+        "key": "applockPerApp",
+        "ui": {
+            "active": true,
+            "displayName": "applockPerApp",
+            "visible": true,
+            "widget": "none"
+        },
+        "valueCheck": false,
+        "values": {
+            "arrayExt": [
+                {
+                    "active": true,
+                    "value": true,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "value": false,
+                    "visible": true
+                }
+            ]
+        },
+        "vtype": "ArrayExt"
+    },
+    {
+        "category": "lock",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "parentalControl",
+        "ui": {
+            "active": true,
+            "displayName": "parentalControl",
+            "visible": true,
+            "widget": "none"
+        },
+        "valueCheck": false,
+        "values": {
+            "arrayExt": [
+                {
+                    "active": true,
+                    "value": true,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "value": false,
+                    "visible": true
+                }
+            ]
+        },
+        "vtype": "ArrayExt"
+    },
+    {
+        "category": "network",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "bleAdvertisingOnOff",
+        "ui": {
+            "active": true,
+            "displayName": "bleAdvertisingOnOff",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": true,
+        "values": {
+            "arrayExt": [
+                {
+                    "active": true,
+                    "value": "on",
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "value": "off",
+                    "visible": true
+                }
+            ]
+        },
+        "vtype": "ArrayExt"
+    },
+    {
+        "category": "network",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "deviceName",
+        "ui": {
+            "active": true,
+            "displayName": "deviceName",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": false,
+        "values": {
+            "arrayExt": []
+        },
+        "vtype": "ArrayExt"
+    },
+    {
+        "category": "network",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "wifiConnection",
+        "ui": {
+            "active": true,
+            "displayName": "wifiConnection",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": false,
+        "values": {
+            "arrayExt": []
+        },
+        "vtype": "ArrayExt"
+    },
+    {
+        "category": "network",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "wiredConnection",
+        "ui": {
+            "active": true,
+            "displayName": "wiredConnection",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": false,
+        "values": {
+            "arrayExt": []
+        },
+        "vtype": "ArrayExt"
+    },
+    {
+        "category": "option",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "country",
+        "ui": {
+            "active": true,
+            "displayName": "country",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": false,
+        "values": {
+            "file": "/etc/palm/countryList.json"
+        },
+        "vtype": "File"
+    },
+    {
+        "category": "option",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "countryRegion",
+        "ui": {
+            "active": true,
+            "displayName": "countryRegion",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": false,
+        "values": {
+            "file": "/etc/palm/countryRegionList.json"
+        },
+        "vtype": "File"
+    },
+    {
+        "category": "option",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "menuLanguage",
+        "ui": {
+            "active": true,
+            "displayName": "menuLanguage",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": false,
+        "values": {
+            "arrayExt": []
+        },
+        "vtype": "ArrayExt"
+    },
+    {
+        "category": "option",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "smartServiceCountryCode2",
+        "ui": {
+            "active": true,
+            "displayName": "smartServiceCountryCode2",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": false,
+        "values": {
+            "arrayExt": []
+        },
+        "vtype": "ArrayExt"
+    },
+    {
+        "category": "option",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "smartServiceCountryCode3",
+        "ui": {
+            "active": true,
+            "displayName": "smartServiceCountryCode3",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": false,
+        "values": {
+            "arrayExt": []
+        },
+        "vtype": "ArrayExt"
+    },
+    {
+        "category": "picture",
+        "dbtype": "G",
+        "dimension": [
+        ],
+        "key": "pictureMode",
+        "ui": {
+            "active": true,
+            "displayName": "pictureMode",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": true,
+        "values": {
+            "arrayExt": [
+                {
+                    "active": true,
+                    "value": "mode1",
+                    "visible": false
+                }
+            ]
+        },
+        "vtype": "ArrayExt"
+    },
+    {
+        "category": "picture",
+        "dbtype": "G",
+        "dimension": [
+            "pictureMode"
+        ],
+        "key": "brightness",
+        "ui": {
+            "active": true,
+            "displayName": "brightness",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": true,
+        "values": {
+            "range": {
+                "interval": 1,
+                "max": 100,
+                "min": 0
+            }
+        },
+        "vtype": "Range"
+    },
+    {
+        "category": "picture",
+        "dbtype": "G",
+        "dimension": [
+            "pictureMode"
+        ],
+        "key": "color",
+        "ui": {
+            "active": true,
+            "displayName": "color",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": true,
+        "values": {
+            "range": {
+                "interval": 1,
+                "max": 100,
+                "min": 0
+            }
+        },
+        "vtype": "Range"
+    },
+    {
+        "category": "time",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "autoClock",
+        "ui": {
+            "active": true,
+            "displayName": "autoClock",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": true,
+        "values": {
+            "arrayExt": [
+                {
+                    "active": true,
+                    "value": "on",
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "value": "off",
+                    "visible": true
+                }
+            ]
+        },
+        "vtype": "ArrayExt"
+    }
+]
+

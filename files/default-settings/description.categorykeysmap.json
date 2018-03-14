@@ -1,0 +1,50 @@
+[
+   {
+       "category": "",
+       "keys": [
+           "eulaStatus",
+           "locale",
+           "localeInfo"
+       ]
+    },
+    {
+       "category": "lock",
+       "keys": [
+            "applockPerApp",
+            "parentalControl"
+       ]
+    },
+    {
+        "category": "network",
+        "keys": [
+            "bleAdvertisingOnOff",
+            "deviceName",
+            "wifiConnection",
+            "wiredConnection"
+        ]
+    },
+    {
+      "category": "option",
+      "keys": [
+           "country",
+           "countryRegion",
+           "menuLanguage",
+           "smartServiceCountryCode2",
+           "smartServiceCountryCode3"
+      ]
+    },
+   {
+      "category":"picture",
+      "keys":[
+         "color",
+         "brightness",
+         "pictureMode"
+      ]
+   },
+    {
+       "category": "time",
+       "keys": [
+            "autoClock"
+       ]
+    }
+]

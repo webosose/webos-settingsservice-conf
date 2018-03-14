@@ -1,0 +1,347 @@
+{
+    "countryList" : [
+        {
+            "groupCode" : "KR",
+            "groupName" : "Korea",
+            "countries" : [
+                {"alpha3" : "KOR", "shortName" : "KR", "fullName" : "Korea, Republic of"}
+            ]
+        },
+        {
+            "groupCode" : "US",
+            "groupName" : "United States",
+            "countries" : [
+                {"alpha3" : "USA", "shortName" : "US", "fullName" : "United States"}
+            ]
+        },
+        {
+            "groupCode" : "CA",
+            "groupName" : "Canada",
+            "countries" : [
+                {"alpha3" : "CAN", "shortName" : "CA", "fullName" : "Canada"}
+            ]
+        },
+        {
+            "groupCode" : "MX",
+            "groupName" : "Mexico",
+            "countries" : [
+                {"alpha3" : "MEX", "shortName" : "MX", "fullName" : "Mexico"}
+            ]
+        },
+        {
+            "groupCode" : "HN",
+            "groupName" : "Honduras",
+            "countries" : [
+                {"alpha3" : "HND", "shortName" : "HN", "fullName" : "Honduras"}
+            ]
+        },
+        {
+            "groupCode" : "BR",
+            "groupName" : "Brazil/South America",
+            "countries" : [
+                {"alpha3" : "BRA", "shortName" : "BR", "fullName" : "Brazil"}
+            ]
+        },
+        {
+            "groupCode" : "PH",
+            "groupName" : "Philippines",
+            "countries" : [
+                {"alpha3" : "PHL", "shortName" : "PH", "fullName" : "Philippines"}
+            ]
+        },
+        {
+            "groupCode" : "CL",
+            "groupName" : "Chile",
+            "countries" : [
+                {"alpha3" : "CHL", "shortName" : "CL", "fullName" : "Chile"}
+            ]
+        },
+        {
+            "groupCode" : "PE",
+            "groupName" : "Peru",
+            "countries" : [
+                {"alpha3" : "PER", "shortName" : "PE", "fullName" : "Peru"}
+            ]
+        },
+        {
+            "groupCode" : "AR",
+            "groupName" : "Argentina",
+            "countries" : [
+                {"alpha3" : "ARG", "shortName" : "AR", "fullName" : "Argentina"}
+            ]
+        },
+        {
+            "groupCode" : "EC",
+            "groupName" : "Ecuador",
+            "countries" : [
+                {"alpha3" : "ECU", "shortName" : "EC", "fullName" : "Ecuador"}
+            ]
+        },
+        {
+            "groupCode" : "Nordic",
+            "groupName" : "Nordic",
+            "countries" : [
+                {"alpha3" : "SWE", "shortName" : "SE", "fullName" : "Sweden",                 "euGroup":"nordic" },
+                {"alpha3" : "DNK", "shortName" : "DK", "fullName" : "Denmark",                "euGroup":"nordic" },
+                {"alpha3" : "NOR", "shortName" : "NO", "fullName" : "Norway",                 "euGroup":"nordic" },
+                {"alpha3" : "FIN", "shortName" : "FI", "fullName" : "Finland",                "euGroup":"nordic" },
+                {"alpha3" : "___", "shortName" : "__", "fullName" : "--",               "euGroup":"common" }
+            ]
+        },
+        {
+            "groupCode" : "NonNordic",
+            "groupName" : "Non-Nordic",
+            "countries" : [
+                {"alpha3" : "ALB", "shortName" : "AL", "fullName" : "Albania",                "euGroup":"eastEU" },
+                {"alpha3" : "AUT", "shortName" : "AT", "fullName" : "Austria",                "euGroup":"westEU" },
+                {"alpha3" : "BLR", "shortName" : "BY", "fullName" : "Belarus",                "euGroup":"etcEU" },
+                {"alpha3" : "BEL", "shortName" : "BE", "fullName" : "Belgium",                "euGroup":"westEU" },
+                {"alpha3" : "BIH", "shortName" : "BA", "fullName" : "Bosnia", "euGroup":"eastEU" },
+                {"alpha3" : "BGR", "shortName" : "BG", "fullName" : "Bulgaria",               "euGroup":"eastEU" },
+                {"alpha3" : "HRV", "shortName" : "HR", "fullName" : "Croatia",                "euGroup":"eastEU" },
+                {"alpha3" : "CZE", "shortName" : "CZ", "fullName" : "Czech",         "euGroup":"eastEU" },
+                {"alpha3" : "EST", "shortName" : "EE", "fullName" : "Estonia",                "euGroup":"eastEU" },
+                {"alpha3" : "FRA", "shortName" : "FR", "fullName" : "France" ,                "euGroup":"westEU"},
+                {"alpha3" : "DEU", "shortName" : "DE", "fullName" : "Germany",                "euGroup":"westEU"},
+                {"alpha3" : "GRC", "shortName" : "GR", "fullName" : "Greece",                 "euGroup":"westEU" },
+                {"alpha3" : "HUN", "shortName" : "HU", "fullName" : "Hungary",                "euGroup":"eastEU" },
+                {"alpha3" : "IRL", "shortName" : "IE", "fullName" : "Ireland",                "euGroup":"westEU" },
+                {"alpha3" : "ITA", "shortName" : "IT", "fullName" : "Italy",                  "euGroup":"westEU"},
+                {"alpha3" : "KAZ", "shortName" : "KZ", "fullName" : "Kazakhstan",             "euGroup":"etcEU" },
+                {"alpha3" : "LVA", "shortName" : "LV", "fullName" : "Latvia",                 "euGroup":"eastEU" },
+                {"alpha3" : "LTU", "shortName" : "LT", "fullName" : "Lithuania",              "euGroup":"eastEU" },
+                {"alpha3" : "LUX", "shortName" : "LU", "fullName" : "Luxembourg",             "euGroup":"westEU" },
+                {"alpha3" : "MAR", "shortName" : "MA", "fullName" : "Morocco",                "euGroup":"etcEU" },
+                {"alpha3" : "NLD", "shortName" : "NL", "fullName" : "Netherlands",            "euGroup":"westEU" },
+                {"alpha3" : "POL", "shortName" : "PL", "fullName" : "Poland",                 "euGroup":"eastEU" },
+                {"alpha3" : "PRT", "shortName" : "PT", "fullName" : "Portugal",               "euGroup":"westEU" },
+                {"alpha3" : "ROU", "shortName" : "RO", "fullName" : "Romania",                "euGroup":"eastEU" },
+                {"alpha3" : "RUS", "shortName" : "RU", "fullName" : "Russia",     "euGroup":"etcEU" },
+                {"alpha3" : "SRB", "shortName" : "RS", "fullName" : "Serbia",                 "euGroup":"eastEU" },
+                {"alpha3" : "SVK", "shortName" : "SK", "fullName" : "Slovakia",               "euGroup":"eastEU" },
+                {"alpha3" : "SVN", "shortName" : "SI", "fullName" : "Slovenia",               "euGroup":"westEU" },
+                {"alpha3" : "ESP", "shortName" : "ES", "fullName" : "Spain",                  "euGroup":"westEU"},
+                {"alpha3" : "CHE", "shortName" : "CH", "fullName" : "Switzerland",            "euGroup":"westEU" },
+                {"alpha3" : "TUR", "shortName" : "TR", "fullName" : "Turkey",                 "euGroup":"etcEU" },
+                {"alpha3" : "GBR", "shortName" : "GB", "fullName" : "United Kingdom",         "euGroup":"westEU"},
+                {"alpha3" : "UKR", "shortName" : "UA", "fullName" : "Ukraine",                "euGroup":"etcEU" },
+                {"alpha3" : "___", "shortName" : "__", "fullName" : "--",               "euGroup":"common" }
+            ]
+        },
+        {
+            "groupCode" : "EastEU",
+            "groupName" : "East EU",
+            "countries" : [
+                {"alpha3" : "ALB", "shortName" : "AL", "fullName" : "Albania",                "euGroup":"eastEU" },
+                {"alpha3" : "BIH", "shortName" : "BA", "fullName" : "Bosnia", "euGroup":"eastEU" },
+                {"alpha3" : "BGR", "shortName" : "BG", "fullName" : "Bulgaria",               "euGroup":"eastEU" },
+                {"alpha3" : "HRV", "shortName" : "HR", "fullName" : "Croatia",                "euGroup":"eastEU" },
+                {"alpha3" : "CZE", "shortName" : "CZ", "fullName" : "Czech",         "euGroup":"eastEU" },
+                {"alpha3" : "EST", "shortName" : "EE", "fullName" : "Estonia",                "euGroup":"eastEU" },
+                {"alpha3" : "HUN", "shortName" : "HU", "fullName" : "Hungary",                "euGroup":"eastEU" },
+                {"alpha3" : "LVA", "shortName" : "LV", "fullName" : "Latvia",                 "euGroup":"eastEU" },
+                {"alpha3" : "LTU", "shortName" : "LT", "fullName" : "Lithuania",              "euGroup":"eastEU" },
+                {"alpha3" : "POL", "shortName" : "PL", "fullName" : "Poland",                 "euGroup":"eastEU" },
+                {"alpha3" : "ROU", "shortName" : "RO", "fullName" : "Romania",                "euGroup":"eastEU" },
+                {"alpha3" : "SRB", "shortName" : "RS", "fullName" : "Serbia",                 "euGroup":"eastEU" },
+                {"alpha3" : "SVK", "shortName" : "SK", "fullName" : "Slovakia",               "euGroup":"eastEU" },
+                {"alpha3" : "___", "shortName" : "__", "fullName" : "--",               "euGroup":"common" }
+            ]
+        },
+        {
+            "groupCode" : "WestEU",
+            "groupName" : "West EU",
+            "countries" : [
+                {"alpha3" : "AUT", "shortName" : "AT", "fullName" : "Austria",                "euGroup":"westEU" },
+                {"alpha3" : "BEL", "shortName" : "BE", "fullName" : "Belgium",                "euGroup":"westEU" },
+                {"alpha3" : "FRA", "shortName" : "FR", "fullName" : "France" ,                "euGroup":"westEU"},
+                {"alpha3" : "DEU", "shortName" : "DE", "fullName" : "Germany",                "euGroup":"westEU"},
+                {"alpha3" : "MKD", "shortName" : "MK", "fullName" : "Macedonia",              "euGroup":"westEU" },
+                {"alpha3" : "GRC", "shortName" : "GR", "fullName" : "Greece",                 "euGroup":"westEU" },
+                {"alpha3" : "IRL", "shortName" : "IE", "fullName" : "Ireland",                "euGroup":"westEU" },
+                {"alpha3" : "ITA", "shortName" : "IT", "fullName" : "Italy",                  "euGroup":"westEU"},
+                {"alpha3" : "LUX", "shortName" : "LU", "fullName" : "Luxembourg",             "euGroup":"westEU" },
+                {"alpha3" : "NLD", "shortName" : "NL", "fullName" : "Netherlands",            "euGroup":"westEU" },
+                {"alpha3" : "PRT", "shortName" : "PT", "fullName" : "Portugal",               "euGroup":"westEU" },
+                {"alpha3" : "SVN", "shortName" : "SI", "fullName" : "Slovenia",               "euGroup":"westEU" },
+                {"alpha3" : "ESP", "shortName" : "ES", "fullName" : "Spain",                  "euGroup":"westEU"},
+                {"alpha3" : "CHE", "shortName" : "CH", "fullName" : "Switzerland",            "euGroup":"westEU" },
+                {"alpha3" : "GBR", "shortName" : "GB", "fullName" : "United Kingdom",         "euGroup":"westEU"},
+                {"alpha3" : "___", "shortName" : "__", "fullName" : "--",               "euGroup":"common" }
+            ]
+        },
+        {
+            "groupCode" : "EtcEU",
+            "groupName" : "Etc EU",
+            "countries" : [
+                {"alpha3" : "BLR", "shortName" : "BY", "fullName" : "Belarus",                "euGroup":"etcEU" },
+                {"alpha3" : "KAZ", "shortName" : "KZ", "fullName" : "Kazakhstan",             "euGroup":"etcEU" },
+                {"alpha3" : "MNG", "shortName" : "MN", "fullName" : "Mongolia",               "euGroup":"etcEU" },
+                {"alpha3" : "MAR", "shortName" : "MA", "fullName" : "Morocco",                "euGroup":"etcEU" },
+                {"alpha3" : "RUS", "shortName" : "RU", "fullName" : "Russia",                "euGroup":"etcEU" },
+                {"alpha3" : "TUR", "shortName" : "TR", "fullName" : "Turkey",                 "euGroup":"etcEU" },
+                {"alpha3" : "UKR", "shortName" : "UA", "fullName" : "Ukraine",                "euGroup":"etcEU" },
+                {"alpha3" : "___", "shortName" : "__", "fullName" : "--",               "euGroup":"common" }
+            ]
+        },
+        {
+            "groupCode" : "EU",
+            "groupName" : "EU",
+            "countries" : [
+                {"alpha3" : "ALB", "shortName" : "AL", "fullName" : "Albania",                "euGroup":"eastEU" },
+                {"alpha3" : "DZA", "shortName" : "DZ", "fullName" : "Algeria",                "euGroup":"etcEU" },
+                {"alpha3" : "AUT", "shortName" : "AT", "fullName" : "Austria",                "euGroup":"westEU" },
+                {"alpha3" : "BLR", "shortName" : "BY", "fullName" : "Belarus",                "euGroup":"etcEU" },
+                {"alpha3" : "BEL", "shortName" : "BE", "fullName" : "Belgium",                "euGroup":"westEU" },
+                {"alpha3" : "BIH", "shortName" : "BA", "fullName" : "Bosnia", "euGroup":"eastEU" },
+                {"alpha3" : "BGR", "shortName" : "BG", "fullName" : "Bulgaria",               "euGroup":"eastEU" },
+                {"alpha3" : "HRV", "shortName" : "HR", "fullName" : "Croatia",                "euGroup":"eastEU" },
+                {"alpha3" : "CZE", "shortName" : "CZ", "fullName" : "Czech",         "euGroup":"eastEU" },
+                {"alpha3" : "DNK", "shortName" : "DK", "fullName" : "Denmark",                "euGroup":"nordic" },
+                {"alpha3" : "EST", "shortName" : "EE", "fullName" : "Estonia",                "euGroup":"eastEU" },
+                {"alpha3" : "FIN", "shortName" : "FI", "fullName" : "Finland",                "euGroup":"nordic" },
+                {"alpha3" : "FRA", "shortName" : "FR", "fullName" : "France" ,                "euGroup":"westEU"},
+                {"alpha3" : "DEU", "shortName" : "DE", "fullName" : "Germany",                "euGroup":"westEU"},
+                {"alpha3" : "GRC", "shortName" : "GR", "fullName" : "Greece",                 "euGroup":"westEU" },
+                {"alpha3" : "HUN", "shortName" : "HU", "fullName" : "Hungary",                "euGroup":"eastEU" },
+                {"alpha3" : "IRL", "shortName" : "IE", "fullName" : "Ireland",                "euGroup":"westEU" },
+                {"alpha3" : "ITA", "shortName" : "IT", "fullName" : "Italy",                  "euGroup":"westEU"},
+                {"alpha3" : "KAZ", "shortName" : "KZ", "fullName" : "Kazakhstan",             "euGroup":"etcEU" },
+                {"alpha3" : "LVA", "shortName" : "LV", "fullName" : "Latvia",                 "euGroup":"eastEU" },
+                {"alpha3" : "LTU", "shortName" : "LT", "fullName" : "Lithuania",              "euGroup":"eastEU" },
+                {"alpha3" : "LUX", "shortName" : "LU", "fullName" : "Luxembourg",             "euGroup":"westEU" },
+                {"alpha3" : "MKD", "shortName" : "MK", "fullName" : "Macedonia",              "euGroup":"westEU" },
+                {"alpha3" : "MNG", "shortName" : "MN", "fullName" : "Mongolia",               "euGroup":"etcEU" },
+                {"alpha3" : "MAR", "shortName" : "MA", "fullName" : "Morocco",                "euGroup":"etcEU" },
+                {"alpha3" : "NLD", "shortName" : "NL", "fullName" : "Netherlands",            "euGroup":"westEU" },
+                {"alpha3" : "NOR", "shortName" : "NO", "fullName" : "Norway",                 "euGroup":"nordic" },
+                {"alpha3" : "POL", "shortName" : "PL", "fullName" : "Poland",                 "euGroup":"eastEU" },
+                {"alpha3" : "PRT", "shortName" : "PT", "fullName" : "Portugal",               "euGroup":"westEU" },
+                {"alpha3" : "ROU", "shortName" : "RO", "fullName" : "Romania",                "euGroup":"eastEU" },
+                {"alpha3" : "RUS", "shortName" : "RU", "fullName" : "Russia",                "euGroup":"etcEU" },
+                {"alpha3" : "SRB", "shortName" : "RS", "fullName" : "Serbia",                 "euGroup":"eastEU" },
+                {"alpha3" : "SVK", "shortName" : "SK", "fullName" : "Slovakia",               "euGroup":"eastEU" },
+                {"alpha3" : "SVN", "shortName" : "SI", "fullName" : "Slovenia",               "euGroup":"westEU" },
+                {"alpha3" : "ESP", "shortName" : "ES", "fullName" : "Spain",                  "euGroup":"westEU"},
+                {"alpha3" : "SWE", "shortName" : "SE", "fullName" : "Sweden",                 "euGroup":"nordic" },
+                {"alpha3" : "CHE", "shortName" : "CH", "fullName" : "Switzerland",            "euGroup":"westEU" },
+                {"alpha3" : "TUR", "shortName" : "TR", "fullName" : "Turkey",                 "euGroup":"etcEU" },
+                {"alpha3" : "UKR", "shortName" : "UA", "fullName" : "Ukraine",                "euGroup":"etcEU" },
+                {"alpha3" : "GBR", "shortName" : "GB", "fullName" : "United Kingdom",         "euGroup":"westEU"},
+                {"alpha3" : "___", "shortName" : "__", "fullName" : "--",               "euGroup":"common" }
+            ]
+        },
+        {
+            "groupCode" : "CN",
+            "groupName" : "China",
+            "countries" : [
+                {"alpha3" : "CHN", "shortName" : "CN", "fullName" : "China"}
+            ]
+        },
+        {
+            "groupCode" : "TW",
+            "groupName" : "Taiwan",
+            "countries" : [
+                {"alpha3" : "TWN", "shortName" : "TW", "fullName" : "Taiwan, Republic of China"}
+            ]
+        },
+        {
+            "groupCode" : "CO",
+            "groupName" : "Colombia",
+            "countries" : [
+                {"alpha3" : "COL", "shortName" : "CO", "fullName" : "Colombia"}
+            ]
+        },
+        {
+            "groupCode" : "PA",
+            "groupName" : "Panama",
+            "countries" : [
+                {"alpha3" : "PAN", "shortName" : "PA", "fullName" : "Panama"}
+            ]
+        },
+        {
+            "groupCode" : "IL",
+            "groupName" : "Israel",
+            "countries" : [
+                {"alpha3" : "ISR", "shortName" : "IL", "fullName" : "Israel"}
+            ]
+        },
+        {
+            "groupCode" : "IR",
+            "groupName" : "Iran",
+            "countries" : [
+                {"alpha3" : "IRN", "shortName" : "IR", "fullName" : "Iran"}
+            ]
+        },
+        {
+            "groupCode" : "HK",
+            "groupName" : "Hong Kong",
+            "countries" : [
+                {"alpha3" : "HKG", "shortName" : "HK", "fullName" : "Hong Kong"}
+            ]
+        },
+        {
+            "groupCode" : "JP",
+            "groupName" : "Japan",
+            "countries" : [
+                {"alpha3" : "JPN", "shortName" : "JP", "fullName" : "Japan"}
+            ]
+        },
+        {
+            "groupCode" : "AJ",
+            "groupName" : "Asia",
+            "countries" : [
+                {"alpha3" : "AUS", "shortName" : "AU", "fullName" : "Australia"},
+                {"alpha3" : "IND", "shortName" : "IN", "fullName" : "India" },
+                {"alpha3" : "IDN", "shortName" : "ID", "fullName" : "Indonesia" },
+                {"alpha3" : "MYS", "shortName" : "MY", "fullName" : "Malaysia" },
+                {"alpha3" : "MMR", "shortName" : "MM", "fullName" : "Myanmar" },
+                {"alpha3" : "NZL", "shortName" : "NZ", "fullName" : "New Zealand"},
+                {"alpha3" : "PHL", "shortName" : "PH", "fullName" : "Philippines"},
+                {"alpha3" : "SGP", "shortName" : "SG", "fullName" : "Singapore"},
+                {"alpha3" : "LKA", "shortName" : "LK", "fullName" : "Sri Lanka" },
+                {"alpha3" : "THA", "shortName" : "TH", "fullName" : "Thailand" },
+                {"alpha3" : "VNM", "shortName" : "VN", "fullName" : "Vietnam" },
+                {"alpha3" : "XAB", "shortName" : "XB", "fullName" : "--" }
+            ]
+        },
+        {
+            "groupCode" : "JA",
+            "groupName" : "Middle East Asia & Africa",
+            "countries" : [
+                {"alpha3" : "BHR", "shortName" : "BH", "fullName" : "Bahrain"},
+                {"alpha3" : "CMR", "shortName" : "CM", "fullName" : "Cameroon"},
+                {"alpha3" : "GHA", "shortName" : "GH", "fullName" : "Ghana"},
+                {"alpha3" : "IRQ", "shortName" : "IQ", "fullName" : "Iraq"},
+                {"alpha3" : "JOR", "shortName" : "JO", "fullName" : "Jordan"},
+                {"alpha3" : "KEN", "shortName" : "KE", "fullName" : "Kenya"},
+                {"alpha3" : "KWT", "shortName" : "KW", "fullName" : "Kuwait"},
+                {"alpha3" : "LBN", "shortName" : "LB", "fullName" : "Lebanon"},
+                {"alpha3" : "LBY", "shortName" : "LY", "fullName" : "Libya"},
+                {"alpha3" : "MWI", "shortName" : "MW", "fullName" : "Malawi"},
+                {"alpha3" : "MUS", "shortName" : "MU", "fullName" : "Mauritius"},
+                {"alpha3" : "NAM", "shortName" : "NA", "fullName" : "Namibia"},
+                {"alpha3" : "NGA", "shortName" : "NG", "fullName" : "Nigeria"},
+                {"alpha3" : "OMN", "shortName" : "OM", "fullName" : "Oman"},
+                {"alpha3" : "QAT", "shortName" : "QA", "fullName" : "Qatar"},
+                {"alpha3" : "SAU", "shortName" : "SA", "fullName" : "Saudi Arabia"},
+                {"alpha3" : "ZAF", "shortName" : "ZA", "fullName" : "South Africa"},
+                {"alpha3" : "TUN", "shortName" : "TN", "fullName" : "Tunisia"},
+                {"alpha3" : "UGA", "shortName" : "UG", "fullName" : "Uganda"},
+                {"alpha3" : "ARE", "shortName" : "AE", "fullName" : "UAE"},
+                {"alpha3" : "YEM", "shortName" : "YE", "fullName" : "Yemen"},
+                {"alpha3" : "ZMB", "shortName" : "ZM", "fullName" : "Zambia"},
+                {"alpha3" : "ZWE", "shortName" : "ZW", "fullName" : "Zimbabwe"},
+                {"alpha3" : "XAD", "shortName" : "XD", "fullName" : "Analog TV"},
+                {"alpha3" : "XAC", "shortName" : "XC", "fullName" : "Digital TV"}
+            ]
+        },
+        {
+            "groupCode"  : "XA",
+            "groupName" : "[VIRTUAL] X-CSA",
+            "countries" : [
+                {"alpha3" : "XAA", "shortName" : "XA", "fullName" : "[VIRTUAL] X-CSA"}
+            ]
+        }
+    ]
+}

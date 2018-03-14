@@ -1,0 +1,53 @@
+[
+    {
+        "keys": [],
+        "map": {},
+        "type": "d0"
+    },
+    {
+        "keys": [
+              "pictureMode"
+        ],
+        "map": {
+               "pictureMode": []
+    },
+        "type": "d1"
+    },
+    {
+        "keys": [],
+        "map": {},
+        "type": "d2"
+    },
+    {
+        "keys": [
+            "pictureMode"
+        ],
+        "type": "dimkeyvalue"
+    },
+    {
+        "keys": [],
+        "type": "volatile"
+    },
+    {
+        "keys":  [
+              "applockPerApp"
+        ],
+        "type": "perAppDbType"
+    },
+    {
+        "keys": [],
+        "type": "mixedDbType"
+    },
+    {
+        "keys": [],
+        "type": "exceptionDbType"
+    },
+    {
+        "keys": [],
+        "type": "hasCountryVar"
+    },
+    {
+        "keys": [],
+        "type": "strictValueCheck"
+    }
+]

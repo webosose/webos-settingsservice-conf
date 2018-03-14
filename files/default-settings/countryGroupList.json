@@ -1,0 +1,99 @@
+{
+    "countryGroup" : [
+        {
+            "groupCode" : "KR",
+            "groupName" : "Korea",
+            "defaultCountry" : "KOR"
+        },
+        {
+            "groupCode" : "US",
+            "groupName" : "United States",
+            "defaultCountry" : "USA"
+        },
+        {
+            "groupCode" : "BR",
+            "groupName" : "Brazil/South America",
+            "defaultCountry" : "BRA"
+        },
+        {
+            "groupCode" : "EU",
+            "groupName" : "Europe",
+            "euCountryGroup": "westEU",
+            "defaultCountry" : "GBR"
+        },
+        {
+            "groupCode" : "EU",
+            "groupName" : "Europe",
+            "euCountryGroup": "etcEU",
+            "defaultCountry" : "ZZZ"
+        },
+        {
+            "groupCode" : "EU",
+            "groupName" : "Europe",
+            "euCountryGroup": "eastEU",
+            "defaultCountry" : "ZZZ"
+        },
+        {
+            "groupCode" : "EU",
+            "groupName" : "Europe",
+            "euCountryGroup": "nordic",
+            "defaultCountry" : "ZZZ"
+        },
+        {
+            "groupCode" : "EU",
+            "groupName" : "Europe",
+            "euCountryGroup": "nonNordic",
+            "defaultCountry" : "ZZZ"
+        },
+        {
+            "groupCode" : "CN",
+            "groupName" : "China",
+            "defaultCountry" : "CHN"
+        },
+        {
+            "groupCode" : "TW",
+            "groupName" : "Taiwan",
+            "defaultCountry" : "TWN"
+        },
+        {
+            "groupCode" : "IL",
+            "groupName" : "Israel",
+            "defaultCountry" : "ISR"
+        },
+        {
+            "groupCode" : "IR",
+            "groupName" : "Iran",
+            "defaultCountry" : "IRN"
+        },
+        {
+            "groupCode" : "HK",
+            "groupName" : "Hong Kong",
+            "defaultCountry" : "HKG"
+        },
+        {
+            "groupCode" : "JP",
+            "groupName" : "Japan",
+            "defaultCountry" : "JPN"
+        },
+        {
+            "groupCode" : "PH",
+            "groupName" : "Philippines",
+            "defaultCountry" : "PHL"
+        },
+        {
+            "groupCode" : "AJ",
+            "groupName" : "Asia",
+            "defaultCountry" : "AUS"
+        },
+        {
+            "groupCode" : "JA",
+            "groupName" : "Middle East Asia & Africa",
+            "defaultCountry" : "ZAF"
+        },
+        {
+            "groupCode"  : "XA",
+            "groupName" : "[VIRTUAL] X-CSA",
+            "defaultCountry" : "XAA"
+        }
+    ]
+}

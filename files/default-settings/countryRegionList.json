@@ -1,0 +1,86 @@
+{
+    "countryRegionList" : [
+        {
+            "regionCode" : "WAS",
+            "regionName" : "Middle East",
+            "representativeCountry" : "ARE",
+            "countries" : [
+                {"alpha3" : "SAU", "shortName" : "SA", "fullName" : "Saudi Arabia"},
+                {"alpha3" : "LBN", "shortName" : "LB", "fullName" : "Lebanon"},
+                {"alpha3" : "JOR", "shortName" : "JO", "fullName" : "Jordan"},
+                {"alpha3" : "IRQ", "shortName" : "IQ", "fullName" : "Iraq"},
+                {"alpha3" : "ARE", "shortName" : "AE", "fullName" : "UAE"},
+                {"alpha3" : "KWT", "shortName" : "KW", "fullName" : "Kuwait"},
+                {"alpha3" : "QAT", "shortName" : "QA", "fullName" : "Qatar"},
+                {"alpha3" : "BHR", "shortName" : "BH", "fullName" : "Bahrain"},
+                {"alpha3" : "OMN", "shortName" : "OM", "fullName" : "Oman"},
+                {"alpha3" : "YEM", "shortName" : "YE", "fullName" : "Yemen"},
+                {"alpha3" : "AFG", "shortName" : "AF", "fullName" : "Afghanistan"}
+            ]
+        },
+        {
+            "regionCode" : "NAF",
+            "regionName" : "Northern Africa",
+            "representativeCountry" : "TUN",
+            "countries" : [
+                {"alpha3" : "EGY", "shortName" : "EG", "fullName" : "Egypt"},
+                {"alpha3" : "TUN", "shortName" : "TN", "fullName" : "Tunisia"},
+                {"alpha3" : "LBY", "shortName" : "LY", "fullName" : "Libya"}
+            ]
+        },
+        {
+            "regionCode" : "EAF",
+            "regionName" : "Eastern Africa",
+            "representativeCountry" : "KEN",
+            "countries" : [
+                {"alpha3" : "BDI", "shortName" : "BI", "fullName" : "Burundi"},
+                {"alpha3" : "KEN", "shortName" : "KE", "fullName" : "Kenya"},
+                {"alpha3" : "RWA", "shortName" : "RW", "fullName" : "Rwanda"},
+                {"alpha3" : "TZA", "shortName" : "TZ", "fullName" : "Tanzania"},
+                {"alpha3" : "UGA", "shortName" : "UG", "fullName" : "Uganda"}
+            ]
+        },
+        {
+            "regionCode" : "WAF",
+            "regionName" : "Western Africa",
+            "representativeCountry" : "GHA",
+            "countries" : [
+                {"alpha3" : "BEN", "shortName" : "BJ", "fullName" : "Benin"},
+                {"alpha3" : "GAB", "shortName" : "GA", "fullName" : "Gabon"},
+                {"alpha3" : "GMB", "shortName" : "GM", "fullName" : "Gambia"},
+                {"alpha3" : "CMR", "shortName" : "CM", "fullName" : "Cameroon"},
+                {"alpha3" : "CPV", "shortName" : "CV", "fullName" : "Cape Verde"},
+                {"alpha3" : "NGA", "shortName" : "NG", "fullName" : "Nigeria"},
+                {"alpha3" : "TGO", "shortName" : "TG", "fullName" : "Togo"},
+                {"alpha3" : "GHA", "shortName" : "GH", "fullName" : "Ghana"},
+                {"alpha3" : "GNB", "shortName" : "GN", "fullName" : "Guinea"},
+                {"alpha3" : "CIV", "shortName" : "CI", "fullName" : "IVC (Cote d’Ivoire)"},
+                {"alpha3" : "LBR", "shortName" : "LR", "fullName" : "Liberia"},
+                {"alpha3" : "MLI", "shortName" : "ML", "fullName" : "Mali"},
+                {"alpha3" : "SEN", "shortName" : "SN", "fullName" : "Senegal"},
+                {"alpha3" : "SLE", "shortName" : "SL", "fullName" : "Sierra Leone"},
+                {"alpha3" : "BFA", "shortName" : "BF", "fullName" : "Burkina Faso"},
+                {"alpha3" : "GNB", "shortName" : "GW", "fullName" : "Guinea Bissau"},
+                {"alpha3" : "NER", "shortName" : "NE", "fullName" : "Niger"}
+            ]
+        },
+        {
+            "regionCode" : "SAF",
+            "regionName" : "Southern Africa",
+            "representativeCountry" : "ZAF",
+            "countries" : [
+                {"alpha3" : "AGO", "shortName" : "AO", "fullName" : "Angola"},
+                {"alpha3" : "COD", "shortName" : "CD", "fullName" : "Democratic Republic of the Congo"},
+                {"alpha3" : "LSO", "shortName" : "LS", "fullName" : "Lesotho"},
+                {"alpha3" : "MWI", "shortName" : "MW", "fullName" : "Malawi"},
+                {"alpha3" : "ZMB", "shortName" : "ZM", "fullName" : "Zambia"},
+                {"alpha3" : "MDG", "shortName" : "MG", "fullName" : "Madagascar"},
+                {"alpha3" : "MUS", "shortName" : "MU", "fullName" : "Mauritius"},
+                {"alpha3" : "MOZ", "shortName" : "MZ", "fullName" : "Mozambique"},
+                {"alpha3" : "NAM", "shortName" : "NA", "fullName" : "Namibia"},
+                {"alpha3" : "ZAF", "shortName" : "ZA", "fullName" : "South Africa"},
+                {"alpha3" : "ZWE", "shortName" : "ZW", "fullName" : "Zimbabwe"}
+            ]
+        }
+    ]
+}

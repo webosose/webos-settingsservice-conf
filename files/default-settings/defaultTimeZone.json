@@ -1,0 +1,69 @@
+{
+    "defaultTimeZones" : [
+        {
+            "countryCode": "RU",
+            "country": "Russia",
+            "defaultZoneId": "Europe/Moscow"
+        },
+        {
+            "countryCode": "AU",
+            "country": "Australia",
+            "defaultZoneId": "Australia/Sydney"
+        },
+        {
+            "countryCode": "PT",
+            "country": "Portugal",
+            "defaultZoneId": "Europe/Lisbon"
+        },
+        {
+            "countryCode": "ES",
+            "country": "Spain",
+            "defaultZoneId": "Europe/Madrid"
+        },
+        {
+            "countryCode": "UA",
+            "country": "Ukraine",
+            "defaultZoneId": "Europe/Kiev"
+        },
+        {
+            "countryCode": "BR",
+            "country": "Brazil",
+            "defaultZoneId": "America/Noronha"
+        },
+        {
+            "countryCode": "AR",
+            "country": "Argentina",
+            "defaultZoneId": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "countryCode": "CL",
+            "country": "Chile",
+            "defaultZoneId": "America/Santiago"
+        },
+        {
+            "countryCode": "US",
+            "country": "United States of America",
+            "defaultZoneId": "America/New_York"
+        },
+        {
+            "countryCode": "MX",
+            "country": "Mexico",
+            "defaultZoneId": "America/Mexico_City"
+        },
+        {
+            "countryCode": "CA",
+            "country": "Canada",
+            "defaultZoneId": "America/Toronto"
+        },
+        {
+            "countryCode": "MY",
+            "country": "Malaysia",
+            "defaultZoneId": "Asia/Kuala_Lumpur"
+        },
+        {
+            "countryCode": "MN",
+            "country": "Mongolia",
+            "defaultZoneId": "Asia/Ulaanbaatar"
+        }
+    ]
+}

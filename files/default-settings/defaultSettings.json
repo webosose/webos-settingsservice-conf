@@ -1,0 +1,148 @@
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "",
+    "value": {
+        "localeInfo": {
+            "clock": "locale",
+            "keyboards": [
+                "en"
+            ],
+            "locales": {
+                "AUD": "en-US",
+                "AUD2": "en-US",
+                "FMT": "en-US",
+                "NLP": "en-US",
+                "STT": "en-US",
+                "TV": "en-US",
+                "UI": "en-US"
+            },
+            "timezone": ""
+        }
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "lock",
+    "value": {
+        "parentalControl": false,
+        "applockPerApp": false
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "com.webos.system",
+    "category": "lock",
+    "value": {
+        "applockPerApp": false
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "network",
+    "value": {
+        "bleAdvertisingOnOff": "off",
+        "deviceName": "webOS Open Source Edition"
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "option",
+    "value": {
+         "menuLanguage": "eng",
+         "country": "other",
+         "countryRegion": "other",
+         "smartServiceCountryCode2": "other",
+         "smartServiceCountryCode3": "other"
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "option",
+    "country": "default",
+    "value": {
+         "countryRegion": "other"
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "option",
+    "country": "TUN",
+    "value": {
+        "countryRegion": "NAF"
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "option",
+    "country": "ARE",
+    "value": {
+        "countryRegion": "WAS"
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "option",
+    "country": "KEN",
+    "value": {
+        "countryRegion": "EAF"
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "option",
+    "country": "GHA",
+    "value": {
+        "countryRegion": "WAF"
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "option",
+    "country": "ZAF",
+    "value": {
+        "countryRegion": "SAF"
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "picture$x",
+    "value": {
+       "pictureMode": "mode1"
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "picture$mode1",
+    "value": {
+        "brightness": "50",
+        "color": "50",
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "settingsservice",
+    "value": {
+        "dbVersion": "8.000"
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "time",
+    "value": {
+        "autoClock": "on"
+    }
+}

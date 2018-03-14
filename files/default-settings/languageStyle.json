@@ -1,0 +1,596 @@
+{
+    "languagelanguageStyles": [
+        {
+            "name": "latin",
+            "languageStyle": {
+                "header" : {
+                    "fontFamily"    : ["Miso", "LG Display-Light"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "126px",
+                    "attributes"    : null
+                },
+                "subHeader" : {
+                    "fontFamily"    : ["Museo Sans","LG Display-Regular"],
+                    "weight"        : 700,
+                    "qmlWeight"     : 75,
+                    "size"          : "30px",
+                    "attributes"    : null
+                },
+                "superHeader" : {
+                    "fontFamily"    : ["Miso","LG Display-Regular"],
+                    "weight"        : 700,
+                    "qmlWeight"     : 75,
+                    "size"          : "32px",
+                    "attributes"    : null
+                },
+                "popupHeader" : {
+                    "fontFamily"    : ["Miso","LG Display-Light"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "73px",
+                    "attributes"    : null
+                },
+                "divider" : {
+                    "fontFamily"    : ["Museo Sans","LG Display-Regular"],
+                    "weight"        : 700,
+                    "qmlWeight"     : 75,
+                    "size"          : "22px",
+                    "attributes"    : "italic"
+                },
+                "largeButton" : {
+                    "fontFamily"    : ["Miso","LG Display-Regular"],
+                    "weight"        : 700,
+                    "qmlWeight"     : 75,
+                    "size"          : "33px",
+                    "attributes"    : null
+                },
+                "smallButton" : {
+                    "fontFamily"    : ["Miso","LG Display-Regular"],
+                    "weight"        : 700,
+                    "qmlWeight"     : 75,
+                    "size"          : "27px",
+                    "attributes"    : null
+                },
+                "body" : {
+                    "fontFamily"    : ["Museo Sans","LG Display-Light"],
+                    "weight"        : 300,
+                    "qmlWeight"     : 50,
+                    "size"          : "32px",
+                    "attributes"    : null
+                },
+                "default" : {
+                    "fontFamily"    : ["Museo Sans","LG Display-Regular"],
+                    "weight"        : 700,
+                    "qmlWeight"     : 75,
+                    "size"          : "30px",
+                    "attributes"    : null
+                },
+                "superscript" : {
+                    "fontFamily"    : ["Museo Sans","LG Display-Regular"],
+                    "weight"        : 700,
+                    "qmlWeight"     : 75,
+                    "size"          : "24px",
+                    "attributes"    : null
+                },
+                "pre" : {
+                    "fontFamily"    : ["Museo Sans","LG Display-Regular"],
+                    "weight"        : 700,
+                    "qmlWeight"     : 75,
+                    "size"          : "24px",
+                    "attributes"    : null
+                },
+                "large" : {
+                    "fontFamily"    : ["Museo Sans","LG Display-Regular"],
+                    "weight"        : 700,
+                    "qmlWeight"     : 75,
+                    "size"          : "48px",
+                    "attributes"    : null
+                },
+                "body-large" : {
+                    "fontFamily"    : ["Museo Sans","LG Display-Regular"],
+                    "weight"        : 700,
+                    "qmlWeight"     : 75,
+                    "size"          : "28px",
+                    "attributes"    : null
+                },
+                "bold" : {
+                    "fontFamily"    : ["Museo Sans","LG Display-Regular"],
+                    "weight"        : 900,
+                    "qmlWeight"     : 87,
+                    "size"          : "26px",
+                    "attributes"    : null
+                }
+            }
+        },
+        {
+            "name": "nonLatin",
+            "languageStyle": {
+                "header" : {
+                    "fontFamily"    : ["LG Display-Light"],
+                    "weight"        : 300,
+                    "qmlWeight"     : 50,
+                    "size"          : "114px",
+                    "attributes"    : null
+                },
+                "subHeader" : {
+                    "fontFamily"    : ["LG Display-Regular"],
+                    "weight"        : 400,
+                    "qmlWeight"     : 63,
+                    "size"          : "30px",
+                    "attributes"    : null
+                },
+                "superHeader" : {
+                    "fontFamily"    : ["LG Display-Regular"],
+                    "weight"        : 400,
+                    "qmlWeight"     : 63,
+                    "size"          : "32px",
+                    "attributes"    : null
+                },
+                "popupHeader" : {
+                    "fontFamily"    : ["LG Display-Light"],
+                    "weight"        : 300,
+                    "qmlWeight"     : 50,
+                    "size"          : "65px",
+                    "attributes"    : null
+                },
+                "divider" : {
+                    "fontFamily"    : ["LG Display-Regular"],
+                    "weight"        : 400,
+                    "qmlWeight"     : 63,
+                    "size"          : "28px",
+                    "attributes"    : null
+                },
+                "largeButton" : {
+                    "fontFamily"    : ["LG Display-Regular"],
+                    "weight"        : 400,
+                    "qmlWeight"     : 63,
+                    "size"          : "36px",
+                    "attributes"    : null
+                },
+                "smallButton" : {
+                    "fontFamily"    : ["LG Display-Regular"],
+                    "weight"        : 400,
+                    "qmlWeight"     : 63,
+                    "size"          : "27px",
+                    "attributes"    : null
+                },
+                "body" : {
+                    "fontFamily"    : ["LG Display-Light"],
+                    "weight"        : 300,
+                    "qmlWeight"     : 50,
+                    "size"          : "26px",
+                    "attributes"    : null
+                }
+            }
+        },
+        {
+            "name": "chinese",
+            "languageStyle": {
+                "header" : {
+                    "fontFamily"    : ["LG Display GP4_HK-Light","LG Display-Light"],
+                    "weight"        : 300,
+                    "qmlWeight"     : 50,
+                    "size"          : "114px",
+                    "attributes"    : null
+                },
+                "subHeader" : {
+                    "fontFamily"    : ["LG Display GP4_HK-Regular","LG Display-Regular"],
+                    "weight"        : 400,
+                    "qmlWeight"     : 63,
+                    "size"          : "30px",
+                    "attributes"    : null
+                },
+                "superHeader" : {
+                    "fontFamily"    : ["LG Display GP4_HK-Regular","LG Display-Regular"],
+                    "weight"        : 400,
+                    "qmlWeight"     : 63,
+                    "size"          : "32px",
+                    "attributes"    : null
+                },
+                "popupHeader" : {
+                    "fontFamily"    : ["LG Display GP4_HK-Light","LG Display-Light"],
+                    "weight"        : 300,
+                    "qmlWeight"     : 50,
+                    "size"          : "65px",
+                    "attributes"    : null
+                },
+                "divider" : {
+                    "fontFamily"    : ["LG Display GP4_HK-Regular","LG Display-Regular"],
+                    "weight"        : 400,
+                    "qmlWeight"     : 63,
+                    "size"          : "28px",
+                    "attributes"    : null
+                },
+                "largeButton" : {
+                    "fontFamily"    : ["LG Display GP4_HK-Regular","LG Display-Regular"],
+                    "weight"        : 400,
+                    "qmlWeight"     : 63,
+                    "size"          : "36px",
+                    "attributes"    : null
+                },
+                "smallButton" : {
+                    "fontFamily"    : ["LG Display GP4_HK-Regular","LG Display-Regular"],
+                    "weight"        : 400,
+                    "qmlWeight"     : 63,
+                    "size"          : "27px",
+                    "attributes"    : null
+                },
+                "body" : {
+                    "fontFamily"    : ["LG Display GP4_HK-Light","LG Display-Light"],
+                    "weight"        : 300,
+                    "qmlWeight"     : 50,
+                    "size"          : "26px",
+                    "attributes"    : null
+                }
+            }
+        },
+        {
+            "name": "japanese",
+            "languageStyle": {
+                "header" : {
+                    "fontFamily"    : ["LG Display_JP","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "114px",
+                    "attributes"    : null
+                },
+                "subHeader" : {
+                    "fontFamily"    : ["LG Display_JP","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "30px",
+                    "attributes"    : null
+                },
+                "superHeader" : {
+                    "fontFamily"    : ["LG Display_JP","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "32px",
+                    "attributes"    : null
+                },
+                "popupHeader" : {
+                    "fontFamily"    : ["LG Display_JP","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "65px",
+                    "attributes"    : null
+                },
+                "divider" : {
+                    "fontFamily"    : ["LG Display_JP","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "28px",
+                    "attributes"    : null
+                },
+                "largeButton" : {
+                    "fontFamily"    : ["LG Display_JP","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "36px",
+                    "attributes"    : null
+                },
+                "smallButton" : {
+                    "fontFamily"    : ["LG Display_JP","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "27px",
+                    "attributes"    : null
+                },
+                "body" : {
+                    "fontFamily"    : ["LG Display_JP","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "26px",
+                    "attributes"    : null
+                }
+            }
+        },
+        {
+            "name": "amharic",
+            "languageStyle": {
+                "header" : {
+                    "fontFamily"    : ["LG Display_Amharic","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "114px",
+                    "attributes"    : null
+                },
+                "subHeader" : {
+                    "fontFamily"    : ["LG Display_Amharic","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "30px",
+                    "attributes"    : null
+                },
+                "superHeader" : {
+                    "fontFamily"    : ["LG Display_Amharic","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "32px",
+                    "attributes"    : null
+                },
+                "popupHeader" : {
+                    "fontFamily"    : ["LG Display_Amharic","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "65px",
+                    "attributes"    : null
+                },
+                "divider" : {
+                    "fontFamily"    : ["LG Display_Amharic","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "28px",
+                    "attributes"    : null
+                },
+                "largeButton" : {
+                    "fontFamily"    : ["LG Display_Amharic","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "36px",
+                    "attributes"    : null
+                },
+                "smallButton" : {
+                    "fontFamily"    : ["LG Display_Amharic","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "27px",
+                    "attributes"    : null
+                },
+                "body" : {
+                    "fontFamily"    : ["LG Display_Amharic","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "26px",
+                    "attributes"    : null
+                }
+            }
+        },
+        {
+            "name": "defaultIndia",
+            "languageStyle": {
+                "header" : {
+                    "fontFamily"    : ["LGIndia","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "114px",
+                    "attributes"    : null
+                },
+                "subHeader" : {
+                    "fontFamily"    : ["LGIndia","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "30px",
+                    "attributes"    : null
+                },
+                "superHeader" : {
+                    "fontFamily"    : ["LGIndia","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "32px",
+                    "attributes"    : null
+                },
+                "popupHeader" : {
+                    "fontFamily"    : ["LGIndia","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "65px",
+                    "attributes"    : null
+                },
+                "divider" : {
+                    "fontFamily"    : ["LGIndia","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "28px",
+                    "attributes"    : null
+                },
+                "largeButton" : {
+                    "fontFamily"    : ["LGIndia","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "36px",
+                    "attributes"    : null
+                },
+                "smallButton" : {
+                    "fontFamily"    : ["LGIndia","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "27px",
+                    "attributes"    : null
+                },
+                "body" : {
+                    "fontFamily"    : ["LGIndia","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "26px",
+                    "attributes"    : null
+                }
+            }
+        },
+        {
+            "name": "malayalam",
+            "languageStyle": {
+                "header" : {
+                    "fontFamily"    : ["LG Display_ML","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "114px",
+                    "attributes"    : null
+                },
+                "subHeader" : {
+                    "fontFamily"    : ["LG Display_ML","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "30px",
+                    "attributes"    : null
+                },
+                "superHeader" : {
+                    "fontFamily"    : ["LG Display_ML","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "32px",
+                    "attributes"    : null
+                },
+                "popupHeader" : {
+                    "fontFamily"    : ["LG Display_ML","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "65px",
+                    "attributes"    : null
+                },
+                "divider" : {
+                    "fontFamily"    : ["LG Display_ML","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "28px",
+                    "attributes"    : null
+                },
+                "largeButton" : {
+                    "fontFamily"    : ["LG Display_ML","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "36px",
+                    "attributes"    : null
+                },
+                "smallButton" : {
+                    "fontFamily"    : ["LG Display_ML","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "27px",
+                    "attributes"    : null
+                },
+                "body" : {
+                    "fontFamily"    : ["LG Display_ML","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "26px",
+                    "attributes"    : null
+                }
+            }
+        },
+        {
+            "name": "oriya",
+            "languageStyle": {
+                "header" : {
+                    "fontFamily"    : ["LG Display_Oriya","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "114px",
+                    "attributes"    : null
+                },
+                "subHeader" : {
+                    "fontFamily"    : ["LG Display_Oriya","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "30px",
+                    "attributes"    : null
+                },
+                "superHeader" : {
+                    "fontFamily"    : ["LG Display_Oriya","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "32px",
+                    "attributes"    : null
+                },
+                "popupHeader" : {
+                    "fontFamily"    : ["LG Display_Oriya","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "65px",
+                    "attributes"    : null
+                },
+                "divider" : {
+                    "fontFamily"    : ["LG Display_Oriya","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "28px",
+                    "attributes"    : null
+                },
+                "largeButton" : {
+                    "fontFamily"    : ["LG Display_Oriya","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "36px",
+                    "attributes"    : null
+                },
+                "smallButton" : {
+                    "fontFamily"    : ["LG Display_Oriya","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "27px",
+                    "attributes"    : null
+                },
+                "body" : {
+                    "fontFamily"    : ["LG Display_Oriya","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "26px",
+                    "attributes"    : null
+                }
+            }
+        },
+        {
+            "name": "urdu",
+            "languageStyle": {
+                "header" : {
+                    "fontFamily"    : ["LG Display_Urdu","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "114px",
+                    "attributes"    : null
+                },
+                "subHeader" : {
+                    "fontFamily"    : ["LG Display_Urdu","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "30px",
+                    "attributes"    : null
+                },
+                "superHeader" : {
+                    "fontFamily"    : ["LG Display_Urdu","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "32px",
+                    "attributes"    : null
+                },
+                "popupHeader" : {
+                    "fontFamily"    : ["LG Display_Urdu","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "65px",
+                    "attributes"    : null
+                },
+                "divider" : {
+                    "fontFamily"    : ["LG Display_Urdu","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "28px",
+                    "attributes"    : null
+                },
+                "largeButton" : {
+                    "fontFamily"    : ["LG Display_Urdu","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "36px",
+                    "attributes"    : null
+                },
+                "smallButton" : {
+                    "fontFamily"    : ["LG Display_Urdu","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "27px",
+                    "attributes"    : null
+                },
+                "body" : {
+                    "fontFamily"    : ["LG Display_Urdu","LG Display-Regular"],
+                    "weight"        : 500,
+                    "qmlWeight"     : 63,
+                    "size"          : "26px",
+                    "attributes"    : null
+                }
+            }
+        }
+
+    ]
+}

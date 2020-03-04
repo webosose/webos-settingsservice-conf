@@ -2703,18 +2703,63 @@
             "includeAlways":true
         },
         {
-            "name": "Bahasa Indonesia",
-            "languageCode": "id",
+            "name": "հայերեն",
+            "languageCode": "hy",
             "includeAlways":true
         },
         {
-            "name": "Bahasa Melayu",
-            "languageCode": "ms",
+            "name": "Afrikaans",
+            "languageCode": "af",
+            "includeAlways":true
+        },
+        {
+            "name": "العربية",
+            "languageCode": "ar",
+            "includeAlways":true
+        },
+        {
+            "name": "অসমীয়া",
+            "languageCode": "as",
+            "includeAlways":true
+        },
+        {
+            "name": "Azerbaijani",
+            "languageCode": "az",
+            "includeAlways":true
+        },
+        {
+            "name": "বাংলা",
+            "languageCode": "bn",
+            "includeAlways":true
+        },
+        {
+            "name": "Башҡорттар",
+            "languageCode": "ba",
             "includeAlways":true
         },
         {
             "name": "Bosanski",
             "languageCode": "bs",
+            "includeAlways":true
+        },
+        {
+            "name": "беларускі",
+            "languageCode": "be",
+            "includeAlways":true
+        },
+        {
+            "name": "Български",
+            "languageCode": "bg",
+            "includeAlways":true
+        },
+        {
+            "name": "ဗမာစာ",
+            "languageCode": "my",
+            "includeAlways":true
+        },
+        {
+            "name": "Català",
+            "languageCode": "ca",
             "includeAlways":true
         },
         {
@@ -2733,7 +2778,7 @@
             "includeAlways":true
         },
         {
-            "name": "Eesti",
+            "name": "Eesti keel",
             "languageCode": "et",
             "includeAlways":true
         },
@@ -2753,8 +2798,53 @@
             "includeAlways":true
         },
         {
+            "name": "ქართული",
+            "languageCode": "ka",
+            "includeAlways":true
+        },
+        {
+            "name": "Ελληνική γλώσσα",
+            "languageCode": "el",
+            "includeAlways":true
+        },
+        {
+            "name": "ગુજરાતી",
+            "languageCode": "gu",
+            "includeAlways":true
+        },
+        {
+            "name": "Hausa",
+            "languageCode": "ha",
+            "includeAlways":true
+        },
+        {
+            "name": "עברית",
+            "languageCode": "he",
+            "includeAlways":true
+        },
+        {
+            "name": "हिन्दी",
+            "languageCode": "hi",
+            "includeAlways":true
+        },
+        {
             "name": "Hrvatski",
             "languageCode": "hr",
+            "includeAlways":true
+        },
+        {
+            "name": "Icelandic",
+            "languageCode": "is",
+            "includeAlways":true
+        },
+        {
+            "name": "Bahasa Indonesia",
+            "languageCode": "id",
+            "includeAlways":true
+        },
+        {
+            "name": "Igbo",
+            "languageCode": "ig",
             "includeAlways":true
         },
         {
@@ -2763,13 +2853,83 @@
             "includeAlways":true
         },
         {
+            "name": "Íslenska",
+            "languageCode": "is",
+            "includeAlways":true
+        },
+        {
+            "name": "język polski",
+            "languageCode": "pl",
+            "includeAlways":true
+        },
+        {
+            "name": "Қазақ тілі",
+            "languageCode": "kk",
+            "includeAlways":true
+        },
+        {
+            "name": "ಕನ್ನಡ",
+            "languageCode": "kn",
+            "includeAlways":true
+        },
+        {
+            "name": "ខ្មែរ",
+            "languageCode": "km",
+            "includeAlways":true
+        },
+        {
+            "name": "کوردی",
+            "languageCode": "ku",
+            "includeAlways":true
+        },
+        {
+            "name": "Кыргызча",
+            "languageCode": "ky",
+            "includeAlways":true
+        },
+        {
             "name": "Latviešu valoda",
             "languageCode": "lv",
             "includeAlways":true
         },
         {
+            "name": "ພາສາລາວ",
+            "languageCode": "lo",
+            "includeAlways":true
+        },
+        {
             "name": "Lietuvių kalba",
             "languageCode": "lt",
+            "includeAlways":true
+        },
+        {
+            "name": "Lëtzebuergesch",
+            "languageCode": "lb",
+            "includeAlways":true
+        },
+        {
+            "name": "Македонски",
+            "languageCode": "mk",
+            "includeAlways":true
+        },
+        {
+            "name": "Bahasa Melayu",
+            "languageCode": "ms",
+            "includeAlways":true
+        },
+        {
+            "name": "മലയാളം",
+            "languageCode": "ml",
+            "includeAlways":true
+        },
+        {
+            "name": "Malti",
+            "languageCode": "mt",
+            "includeAlways":true
+        },
+        {
+            "name": "मराठी",
+            "languageCode": "mr",
             "includeAlways":true
         },
         {
@@ -2783,13 +2943,33 @@
             "includeAlways":true
         },
         {
+            "name": "Монгол хэл",
+            "languageCode": "mn",
+            "includeAlways":true
+        },
+        {
             "name": "Nederlands",
             "languageCode": "nl",
             "includeAlways":true
         },
         {
+            "name": "नेपाली",
+            "languageCode": "ne",
+            "includeAlways":true
+        },
+        {
             "name": "Norsk",
             "languageCode": "nb",
+            "includeAlways":true
+        },
+        {
+            "name": "Sesotho sa Leboa",
+            "languageCode": "nso",
+            "includeAlways":true
+        },
+        {
+            "name": "ଓଡ଼ିଆ",
+            "languageCode": "or",
             "includeAlways":true
         },
         {
@@ -2801,8 +2981,18 @@
             "includeAlways":true
         },
         {
-            "name": "Polski",
-            "languageCode": "pl",
+            "name": "ਪੰਜਾਬੀ",
+            "languageCode": "pa",
+            "includeAlways":true
+        },
+        {
+            "name": "پښتو",
+            "languageCode": "ps",
+            "includeAlways":true
+        },
+        {
+            "name": "فارسی",
+            "languageCode": "fa",
             "includeAlways":true
         },
         {
@@ -2813,6 +3003,16 @@
         {
             "name": "Română",
             "languageCode": "ro",
+            "includeAlways":true
+        },
+        {
+            "name": "Русский",
+            "languageCode": "ru",
+            "includeAlways":true
+        },
+        {
+            "name": "සිංහල",
+            "languageCode": "si",
             "includeAlways":true
         },
         {
@@ -2831,6 +3031,11 @@
             "includeAlways":true
         },
         {
+            "name": "af Soomaali",
+            "languageCode": "so",
+            "includeAlways":true
+        },
+        {
             "name": "Srpski",
             "languageCode": "sr",
             "includeAlways":true
@@ -2846,63 +3051,28 @@
             "includeAlways":true
         },
         {
-            "name": "Türkçe",
-            "languageCode": "tr",
+            "name": "Swahili",
+            "languageCode": "sw",
             "includeAlways":true
         },
         {
-            "name": "Tiếng Việt",
-            "languageCode": "vi",
+            "name": "тоҷикӣ",
+            "languageCode": "tg",
             "includeAlways":true
         },
         {
-            "name": "العربية",
-            "languageCode": "ar",
+            "name": "தமிழ்",
+            "languageCode": "ta",
             "includeAlways":true
         },
         {
-            "name": "Български",
-            "languageCode": "bg",
+            "name": "татар теле",
+            "languageCode": "tt",
             "includeAlways":true
         },
         {
-            "name": "Ελληνική γλώσσα",
-            "languageCode": "el",
-            "includeAlways":true
-        },
-        {
-            "name": "فارسی",
-            "languageCode": "fa",
-            "includeAlways":true
-        },
-        {
-            "name": "עברית",
-            "languageCode": "he",
-            "includeAlways":true
-        },
-        {
-            "name": "Қазақ тілі",
-            "languageCode": "kk",
-            "includeAlways":true
-        },
-        {
-            "name": "کوردی",
-            "languageCode": "ku",
-            "includeAlways":true
-        },
-        {
-            "name": "Македонски",
-            "languageCode": "mk",
-            "includeAlways":true
-        },
-        {
-            "name": "Монгол хэл",
-            "languageCode": "mn",
-            "includeAlways":true
-        },
-        {
-            "name": "Русский",
-            "languageCode": "ru",
+            "name": "తెలుగు",
+            "languageCode": "te",
             "includeAlways":true
         },
         {
@@ -2911,13 +3081,53 @@
             "includeAlways":true
         },
         {
+            "name": "Türkçe",
+            "languageCode": "tr",
+            "includeAlways":true
+        },
+        {
+            "name": "Türkmen",
+            "languageCode": "tk",
+            "includeAlways":true
+        },
+        {
             "name": "Українська",
             "languageCode": "uk",
             "includeAlways":true
         },
         {
-            "name": "हिन्दी",
-            "languageCode": "hi",
+            "name": "اردو",
+            "languageCode": "ur",
+            "includeAlways":true
+        },
+        {
+            "name": "ئۇيغۇرچە",
+            "languageCode": "ug",
+            "includeAlways":true
+        },
+        {
+            "name": "Tiếng Việt",
+            "languageCode": "vi",
+            "includeAlways":true
+        },
+        {
+            "name": "Cymraeg",
+            "languageCode": "cy",
+            "includeAlways":true
+        },
+        {
+            "name": "Wollof",
+            "languageCode": "wo",
+            "includeAlways":true
+        },
+        {
+            "name": "Yorùbá",
+            "languageCode": "yo",
+            "includeAlways":true
+        },
+        {
+            "name": "isiZulu",
+            "languageCode": "zu",
             "includeAlways":true
         },
         {
@@ -2927,20 +3137,12 @@
                 "中文 - 拼音或笔画": "zh-Hans",
                 "中文 - 注音或倉頡": "zh-Hant"
             },
-            "country": ["CHN", "TWN", "HKG", "AUS", "IND", "IDN", "MYS", "NZL", "PHL", "SGP", "THA", "VNM"]
-        },
-        {
-            "name": "中文",
-            "languageCode": "zh",
-            "keyboards": {
-                "中文 - 拼音或笔画": "zh-Hans"
-            },
-            "country": []
+            "includeAlways":true
         },
         {
             "name": "日本語",
             "languageCode": "ja",
-            "country": ["JPN"]
+            "includeAlways":true
         }
     ]
 }

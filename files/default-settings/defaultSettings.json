@@ -146,3 +146,61 @@
         "autoClock": "on"
     }
 }
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "Session0",
+    "value": {
+        "VideoMode": "On",
+        "SoundMode": "On",
+        "Volume": 10,
+        "username": "guest",
+        "KeyboardType": "English",
+        "Language": "English",
+        "Calendar": "Gregorian",
+        "TemperatureUnit": "C",
+        "audioGuidance": "Off",
+        "avatarUrl": "/usr/share/userprofile/1.png",
+        "BackgroundApp": "",
+        "BTDevices" : {},
+        "Legal": {
+            "UserAgreement": "Off",
+            "PrivacyPolicy": "Off",
+            "TermsAndConditions": "Off"
+        },
+        "AudioOutput": "Car Speaker",
+        "SoundEffectVolume": 10,
+        "MediaVolume": 10,
+        "Date": "",
+        "Time": ""
+    }
+}
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "Session1",
+    "value": {
+        "VideoMode": "Off",
+        "SoundMode": "Off",
+        "Volume": 20,
+        "username": "guest",
+        "KeyboardType": "English",
+        "Language": "English",
+        "Calendar": "Gregorian",
+        "TemperatureUnit": "C",
+        "audioGuidance": "Off",
+        "avatarUrl": "/usr/share/userprofile/2.png",
+        "BackgroundApp": "",
+        "BTDevices" : {},
+        "Legal": {
+            "UserAgreement": "Off",
+            "PrivacyPolicy": "Off",
+            "TermsAndConditions": "Off"
+        },
+        "AudioOutput": "Car Speaker",
+        "SoundEffectVolume": 20,
+        "MediaVolume": 20,
+        "Date": "",
+        "Time": ""
+    }
+}

@@ -46,5 +46,51 @@
        "keys": [
             "autoClock"
        ]
-    }
+    },
+    {
+      "category": "Session0",
+      "keys": [
+           "VideoMode",
+           "SoundMode",
+           "Volume",
+           "username",
+           "KeyboardType",
+           "Language",
+           "Calendar",
+           "TemperatureUnit",
+           "audioGuidance",
+           "avatarUrl",
+           "BackgroundApp",
+           "BTDevices",
+           "Legal",
+           "AudioOutput",
+           "SoundEffectVolume",
+           "MediaVolume",
+           "Date",
+           "Time"
+      ]
+    },
+    {
+      "category": "Session1",
+      "keys": [
+           "VideoMode",
+           "SoundMode",
+           "Volume",
+           "username",
+           "KeyboardType",
+           "Language",
+           "Calendar",
+           "TemperatureUnit",
+           "audioGuidance",
+           "avatarUrl",
+           "BackgroundApp",
+           "BTDevices",
+           "Legal",
+           "AudioOutput",
+           "SoundEffectVolume",
+           "MediaVolume",
+           "Date",
+           "Time"
+      ]
+   }
 ]

@@ -2833,11 +2833,6 @@
             "includeAlways":true
         },
         {
-            "name": "Icelandic",
-            "languageCode": "is",
-            "includeAlways":true
-        },
-        {
             "name": "Bahasa Indonesia",
             "languageCode": "id",
             "includeAlways":true

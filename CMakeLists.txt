@@ -1,4 +1,4 @@
-# Copyright (c) 2016-2018 LG Electronics, Inc.
+# Copyright (c) 2016-2022 LG Electronics, Inc.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -41,7 +41,12 @@ set(DEFAULT_SETTINGS_FILES
     files/default-settings/settingsservice.conf
     )
 
+set(SETTINGS_FILES
+     files/settings/prefsFileWriterRule.json
+     files/settings/fileCacheSchema.json
+     )
 
 install(FILES ${LOCALE_FILES} DESTINATION ${WEBOS_INSTALL_WEBOS_SYSCONFDIR})
 install(FILES ${COUNTRY_FILES} DESTINATION ${WEBOS_INSTALL_WEBOS_SYSCONFDIR})
 install(FILES ${DEFAULT_SETTINGS_FILES} DESTINATION ${WEBOS_INSTALL_WEBOS_SYSCONFDIR})
+install(FILES ${SETTINGS_FILES} DESTINATION ${WEBOS_INSTALL_WEBOS_SYSCONFDIR}/settings)

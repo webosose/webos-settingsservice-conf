@@ -1,0 +1,10 @@
+[
+   {
+     "path": "/var/luna/preferences/localeInfo",
+     "requiredProps": [
+       "country",
+       "localeInfo",
+       "smartServiceCountryCode3"
+     ]
+   }
+]

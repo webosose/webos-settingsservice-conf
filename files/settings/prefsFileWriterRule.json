@@ -1,0 +1,22 @@
+[
+     {
+         "path": "/var/luna/preferences/localeInfo",
+         "rules": [
+             {
+                 "key": "localeInfo",
+                 "category": "",
+                 "postProcess": []
+             },
+             {
+                 "key": "country",
+                 "category": "option",
+                 "postProcess": []
+             },
+             {
+                 "key": "smartServiceCountryCode3",
+                 "category": "option",
+                 "postProcess": []
+             }
+         ]
+     }
+]

@@ -91,6 +91,42 @@
         "vtype": "ArrayExt"
     },
     {
+        "category": "sound",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "soundOutputList",
+        "ui": {
+            "active": true,
+            "displayName": "soundOutputList",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": false,
+        "values": {
+            "arrayExt": []
+        },
+        "volatile": false,
+        "vtype": "ArrayExt"
+    },
+    {
+        "category": "sound",
+        "dbtype": "G",
+        "dimension": [],
+        "key": "soundInputList",
+        "ui": {
+            "active": true,
+            "displayName": "soundInputList",
+            "visible": true,
+            "widget": "None"
+        },
+        "valueCheck": false,
+        "values": {
+            "arrayExt": []
+        },
+        "volatile": false,
+        "vtype": "ArrayExt"
+    },
+    {
         "category": "network",
         "dbtype": "G",
         "dimension": [],

@@ -204,3 +204,38 @@
         "Time": ""
     }
 }
+{
+    "_kind": "com.webos.settings.default:1",
+    "app_id": "",
+    "category": "sound",
+    "value": {
+        "soundOutputList": [
+            {
+                "deviceCounter": 1,
+                "soundOutput": "pcm_output",
+                "deviceNameDetails": "",
+                "volume": 100
+            },
+            {
+                "deviceCounter": 2,
+                "soundOutput": "pcm_output1",
+                "deviceNameDetails": "",
+                "volume": 100
+            },
+            {
+                "deviceCounter": 3,
+                "soundOutput": "pcm_headphone",
+                "deviceNameDetails": "",
+                "volume": 100
+            }
+        ],
+        "soundInputList": [
+            {
+                "deviceCounter": 1,
+                "soundInput": "pcm_input",
+                "deviceNameDetails": "",
+                "volume": 100
+            }
+        ]
+    }
+}
